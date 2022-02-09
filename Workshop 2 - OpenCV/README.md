@@ -14,3 +14,6 @@ All the images and codes used in the presentation are added in the repository. Y
 ## Further references
 - [OpenCV Docs](https://docs.opencv.org/4.x/d2/d96/tutorial_py_table_of_contents_imgproc.html)
 - [Sentdex Playlist](https://www.youtube.com/watch?v=Z78zbnLlPUA&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq)
+
+## Task
+Try to code for an Invisibility Cloak as shown in the workshop using Masking Techniques on a Video Feed
