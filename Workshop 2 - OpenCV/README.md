@@ -12,3 +12,5 @@ All the images and codes used in the presentation are added in the repository. Y
 - [Masking](https://github.com/Robotics-Club-IIT-BHU/La-Robo-Liga-Workshops/blob/main/Workshop%202%20-%20OpenCV/masking.py)
 
 ## Further references
+- [OpenCV Docs](https://docs.opencv.org/4.x/d2/d96/tutorial_py_table_of_contents_imgproc.html)
+- [Sentdex Playlist](https://www.youtube.com/watch?v=Z78zbnLlPUA&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq)
